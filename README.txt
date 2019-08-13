@@ -9,7 +9,7 @@ The folder KP_data includes data:
 Here is a brief description of functions in the order they are used:
 
 Functions to find xy coordinates of cells:
-- load_image: Load an image from KP_stills
+- load_image: Load an image (no longer needed as image stored in KP_data)
 - find_cells_manual: Record the xy coordinates of cells in the image
 - plot_cells: Show the xy coordinates of cells on the image
 
