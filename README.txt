@@ -1,7 +1,7 @@
 Analysis of budding angles in colonies of Knufia petricola (KP)
 James Pelletier and Lorna Mitchison-Field 2019
 
-The folder KP_data includes corresponding data:
+The folder KP_data includes data:
     - DMG: Index of daughter cell, index of mother cell, index of grandmother cell
     - im: Last image in time lapse movie
     - x, y: xy coordinates of cells
